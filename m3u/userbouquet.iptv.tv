@@ -1,0 +1,433 @@
+#NAME Вип ТВ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:IT:Rai 1: #NAME IPTV
+#DESCRIPTION  #NAME IPTV
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:IT:Rai 2:http%3a//iptv.tjurk.com:8000/live/alim/alim/328.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/328.ts
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:IT:Rai 3:http%3a//iptv.tjurk.com:8000/live/alim/alim/329.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/329.ts
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:IT:Sky Uno:http%3a//iptv.tjurk.com:8000/live/alim/alim/330.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/330.ts
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:IT:TG24:http%3a//iptv.tjurk.com:8000/live/alim/alim/347.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/347.ts
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:IT:Canale 5:http%3a//iptv.tjurk.com:8000/live/alim/alim/350.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/350.ts
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:IT:Rete 4:http%3a//iptv.tjurk.com:8000/live/alim/alim/357.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/357.ts
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:IT:Iris:http%3a//iptv.tjurk.com:8000/live/alim/alim/360.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/360.ts
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:IT:Cielo:http%3a//iptv.tjurk.com:8000/live/alim/alim/362.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/362.ts
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:IT:Fox Crime:http%3a//iptv.tjurk.com:8000/live/alim/alim/361.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/361.ts
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:IT:Dmax:http%3a//iptv.tjurk.com:8000/live/alim/alim/359.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/359.ts
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:IT:Radio Italia Tv:http%3a//iptv.tjurk.com:8000/live/alim/alim/364.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/364.ts
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:IT:Disney XD:http%3a//iptv.tjurk.com:8000/live/alim/alim/356.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/356.ts
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:IT:Nat Geo:http%3a//iptv.tjurk.com:8000/live/alim/alim/349.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/349.ts
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:IT:Nat Geo Wild:http%3a//iptv.tjurk.com:8000/live/alim/alim/348.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/348.ts
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:IT:Nat Geo People:http%3a//iptv.tjurk.com:8000/live/alim/alim/101.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/101.ts
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:IT:Discovery Channel:http%3a//iptv.tjurk.com:8000/live/alim/alim/102.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/102.ts
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:IT:Discovery World:http%3a//iptv.tjurk.com:8000/live/alim/alim/103.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/103.ts
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:IT:History:http%3a//iptv.tjurk.com:8000/live/alim/alim/352.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/352.ts
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:IT:Cinema 1:http%3a//iptv.tjurk.com:8000/live/alim/alim/104.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/104.ts
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:IT:Cinema Passion:http%3a//iptv.tjurk.com:8000/live/alim/alim/341.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/341.ts
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:IT:Cinema Max:http%3a//iptv.tjurk.com:8000/live/alim/alim/345.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/345.ts
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:IT:Cinema Hits:http%3a//iptv.tjurk.com:8000/live/alim/alim/344.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/344.ts
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:IT:Cinema Comedy:http%3a//iptv.tjurk.com:8000/live/alim/alim/343.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/343.ts
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:IT:Cinema Atlantic:http%3a//iptv.tjurk.com:8000/live/alim/alim/342.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/342.ts
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:IT:Premium Story:http%3a//iptv.tjurk.com:8000/live/alim/alim/346.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/346.ts
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:IT:Premium Joi:http%3a//iptv.tjurk.com:8000/live/alim/alim/351.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/351.ts
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:IT:Premium Action:http%3a//iptv.tjurk.com:8000/live/alim/alim/339.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/339.ts
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:IT:Premium Action Prima:http%3a//iptv.tjurk.com:8000/live/alim/alim/332.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/332.ts
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:IT:Premium Cinema:http%3a//iptv.tjurk.com:8000/live/alim/alim/331.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/331.ts
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:IT:Premium Cinema 2:http%3a//iptv.tjurk.com:8000/live/alim/alim/335.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/335.ts
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:IT:Premium Cinema 24:http%3a//iptv.tjurk.com:8000/live/alim/alim/334.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/334.ts
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:IT:Premium Emotion:http%3a//iptv.tjurk.com:8000/live/alim/alim/333.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/333.ts
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:IT:Premium Comedy:http%3a//iptv.tjurk.com:8000/live/alim/alim/337.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/337.ts
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:IT:Premium Energy:http%3a//iptv.tjurk.com:8000/live/alim/alim/336.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/336.ts
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:IT:Premium Studio Universal:http%3a//iptv.tjurk.com:8000/live/alim/alim/338.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/338.ts
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:IT:Premium Disney Junior:http%3a//iptv.tjurk.com:8000/live/alim/alim/340.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/340.ts
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:IT:Premium Disney Channel:http%3a//iptv.tjurk.com:8000/live/alim/alim/354.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/354.ts
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:IT:Premium Sport:http%3a//iptv.tjurk.com:8000/live/alim/alim/355.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/355.ts
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:IT:Premium BBC:http%3a//iptv.tjurk.com:8000/live/alim/alim/358.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/358.ts
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:IT:Primafila1:http%3a//iptv.tjurk.com:8000/live/alim/alim/353.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/353.ts
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:IT:Primafila2:http%3a//iptv.tjurk.com:8000/live/alim/alim/105.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/105.ts
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:IT:Primafila3:http%3a//iptv.tjurk.com:8000/live/alim/alim/106.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/106.ts
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:IT:Primafila4:http%3a//iptv.tjurk.com:8000/live/alim/alim/107.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/107.ts
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:IT:Primafila5:http%3a//iptv.tjurk.com:8000/live/alim/alim/108.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/108.ts
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:IT:Primafila6:http%3a//iptv.tjurk.com:8000/live/alim/alim/109.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/109.ts
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:IT:Primafila7:http%3a//iptv.tjurk.com:8000/live/alim/alim/110.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/110.ts
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:IT:Primafila8:http%3a//iptv.tjurk.com:8000/live/alim/alim/111.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/111.ts
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:IT:Primafila9:http%3a//iptv.tjurk.com:8000/live/alim/alim/112.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/112.ts
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:IT:Primafila10:http%3a//iptv.tjurk.com:8000/live/alim/alim/113.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/113.ts
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:IT:Rai Sport1:http%3a//iptv.tjurk.com:8000/live/alim/alim/114.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/114.ts
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:IT:Rai Sport2:http%3a//iptv.tjurk.com:8000/live/alim/alim/99.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/99.ts
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:IT:Sky Calcio 1:http%3a//iptv.tjurk.com:8000/live/alim/alim/100.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/100.ts
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:IT:Sky Calcio 2:http%3a//iptv.tjurk.com:8000/live/alim/alim/93.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/93.ts
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:IT:Sky Super Calcio:http%3a//iptv.tjurk.com:8000/live/alim/alim/94.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/94.ts
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:IT:Sky Sport 1:http%3a//iptv.tjurk.com:8000/live/alim/alim/95.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/95.ts
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:IT:Sky Sport 2:http%3a//iptv.tjurk.com:8000/live/alim/alim/91.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/91.ts
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:IT:Sky Sport 24:http%3a//iptv.tjurk.com:8000/live/alim/alim/92.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/92.ts
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:IT:Sky Sport F1:http%3a//iptv.tjurk.com:8000/live/alim/alim/96.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/96.ts
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:IT:Sky Sport MotoGP:http%3a//iptv.tjurk.com:8000/live/alim/alim/97.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/97.ts
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:IT:Super Tennis:http%3a//iptv.tjurk.com:8000/live/alim/alim/98.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/98.ts
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:====SKY IT====:http%3a//iptv.tjurk.com:8000/live/alim/alim/363.ts
+#DESCRIPTIONhttp%3a//iptv.tjurk.com:8000/live/alim/alim/363.ts
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:IT: Sky Sport 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/573.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/573.ts
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:IT: Sky Sport 2 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/493.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/493.ts
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:Sky Sport 2 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/492.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/492.ts
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:Sky Sport 3 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/569.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/569.ts
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:IT: Sky Sport 24:http%3a//ip.cs4ip.com:8000/live/raji/raji/567.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/567.ts
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:Sky Sport 24 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/491.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/491.ts
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:IT: Sky Calcio 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/568.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/568.ts
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:IT: Sky Calcio 2:http%3a//ip.cs4ip.com:8000/live/raji/raji/501.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/501.ts
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:Sky Sport F1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/500.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/500.ts
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:IT: Sky Sport MotoGP HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/566.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/566.ts
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:IT: Sky Super tennis HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/631.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/631.ts
+#SERVICE 4097:0:1:74:0:0:0:0:0:0:IT: SKY CINEMA 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/490.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/490.ts
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:IT: Sky Cinema Max HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/498.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/498.ts
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:IT: Sky Cinema Cult HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/495.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/495.ts
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:IT: Sky Cinema Hits:http%3a//ip.cs4ip.com:8000/live/raji/raji/497.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/497.ts
+#SERVICE 4097:0:1:78:0:0:0:0:0:0:IT: Sky Cinema Classics HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/628.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/628.ts
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:IT:Premium Studio Universal:http%3a//ip.cs4ip.com:8000/live/raji/raji/629.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/629.ts
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:IT:Premium Sport HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/779.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/779.ts
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:IT:Premium Joi:http%3a//ip.cs4ip.com:8000/live/raji/raji/778.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/778.ts
+#SERVICE 4097:0:1:82:0:0:0:0:0:0:IT:Premium EuroSport 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/780.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/780.ts
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:IT:Premium EuroSport 2 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/786.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/786.ts
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:IT:Premium Energy:http%3a//ip.cs4ip.com:8000/live/raji/raji/787.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/787.ts
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:IT:Premium Emotion:http%3a//ip.cs4ip.com:8000/live/raji/raji/788.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/788.ts
+#SERVICE 4097:0:1:86:0:0:0:0:0:0:IT:Premium Disney Junior:http%3a//ip.cs4ip.com:8000/live/raji/raji/789.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/789.ts
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:IT:Premium Disney Channel:http%3a//ip.cs4ip.com:8000/live/raji/raji/791.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/791.ts
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:IT:Premium Discovery World:http%3a//ip.cs4ip.com:8000/live/raji/raji/792.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/792.ts
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:IT:Premium Crime:http%3a//ip.cs4ip.com:8000/live/raji/raji/801.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/801.ts
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:IT:Premium Comedy:http%3a//ip.cs4ip.com:8000/live/raji/raji/793.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/793.ts
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:IT:Premium Cinema 2 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/794.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/794.ts
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:IT:Premium Cinema Plus 24:http%3a//ip.cs4ip.com:8000/live/raji/raji/797.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/797.ts
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:IT:Premium Cinema:http%3a//ip.cs4ip.com:8000/live/raji/raji/795.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/795.ts
+#SERVICE 4097:0:1:94:0:0:0:0:0:0:IT:Premium Cartoon Network:http%3a//ip.cs4ip.com:8000/live/raji/raji/796.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/796.ts
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:IT:Premium Calcio HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/790.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/790.ts
+#SERVICE 4097:0:1:96:0:0:0:0:0:0:IT:Premium Calcio 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/782.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/782.ts
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:IT:Premium Calcio 2:http%3a//ip.cs4ip.com:8000/live/raji/raji/783.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/783.ts
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:IT:Premium Calcio 3:http%3a//ip.cs4ip.com:8000/live/raji/raji/784.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/784.ts
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:IT:Premium Calcio:http%3a//ip.cs4ip.com:8000/live/raji/raji/785.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/785.ts
+#SERVICE 4097:0:1:100:0:0:0:0:0:0:IT:Premium BBC Knowledge:http%3a//ip.cs4ip.com:8000/live/raji/raji/781.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/781.ts
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:IT:Premium BBC:http%3a//ip.cs4ip.com:8000/live/raji/raji/798.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/798.ts
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:IT:Premium Action HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/799.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/799.ts
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:IT: RSI La 1 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/800.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/800.ts
+#SERVICE 4097:0:1:104:0:0:0:0:0:0:IT: RSI La 2:http%3a//ip.cs4ip.com:8000/live/raji/raji/633.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/633.ts
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:IT: Rai Sport 1:http%3a//ip.cs4ip.com:8000/live/raji/raji/632.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/632.ts
+#SERVICE 4097:0:1:106:0:0:0:0:0:0:IT: Rai Sport 2:http%3a//ip.cs4ip.com:8000/live/raji/raji/627.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/627.ts
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:IT: RAI PREMIUM:http%3a//ip.cs4ip.com:8000/live/raji/raji/630.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/630.ts
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:IT: Rai 1:http%3a//ip.cs4ip.com:8000/live/raji/raji/626.ts
+#DESCRIPTIONhttp%3a//ip.cs4ip.com:8000/live/raji/raji/626.ts
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:IT: RAI 2 HD:http%3a//ip.cs4ip.com:8000/live/raji/raji/510.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/510.ts
+#SERVICE 4097:0:1:110:0:0:0:0:0:0:IT: RAI 3 HD:http://ip.cs4ip.com:8000/live/raji/raji/623.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/623.ts
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:IT: Rai 4:http://ip.cs4ip.com:8000/live/raji/raji/624.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/624.ts
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:IT: National Geo HD:http://ip.cs4ip.com:8000/live/raji/raji/625.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/625.ts
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:IT: NatGeo Wild HD:http://ip.cs4ip.com:8000/live/raji/raji/634.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/634.ts
+#SERVICE 4097:0:1:114:0:0:0:0:0:0:IT: NatGeo People HD:http://ip.cs4ip.com:8000/live/raji/raji/635.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/635.ts
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:IT: Milan Channel:http://ip.cs4ip.com:8000/live/raji/raji/636.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/636.ts
+#SERVICE 4097:0:1:116:0:0:0:0:0:0:IT: Mediaset Italia due:http://ip.cs4ip.com:8000/live/raji/raji/637.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/637.ts
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:IT:JUVE_CHANNEL:http://ip.cs4ip.com:8000/live/raji/raji/638.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/638.ts
+#SERVICE 4097:0:1:118:0:0:0:0:0:0:IT:Italia_1:http://ip.cs4ip.com:8000/live/raji/raji/639.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/639.ts
+#SERVICE 4097:0:1:119:0:0:0:0:0:0:IT:Inter:http://ip.cs4ip.com:8000/live/raji/raji/640.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/640.ts
+#SERVICE 4097:0:1:120:0:0:0:0:0:0:IT:FOX_SPORT:http://ip.cs4ip.com:8000/live/raji/raji/641.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/641.ts
+#SERVICE 4097:0:1:121:0:0:0:0:0:0:IT: Fox Crime HD:http://ip.cs4ip.com:8000/live/raji/raji/643.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/643.ts
+#SERVICE 4097:0:1:122:0:0:0:0:0:0:IT:Fox_Comedy_HD:http://ip.cs4ip.com:8000/live/raji/raji/645.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/645.ts
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:IT:Disney_Junior:http://ip.cs4ip.com:8000/live/raji/raji/646.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/646.ts
+#SERVICE 4097:0:1:124:0:0:0:0:0:0:IT: Discovery World:http://ip.cs4ip.com:8000/live/raji/raji/648.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/648.ts
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:IT: Discovery Sci HD:http://ip.cs4ip.com:8000/live/raji/raji/649.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/649.ts
+#SERVICE 4097:0:1:126:0:0:0:0:0:0:IT: Discovery HD:http://ip.cs4ip.com:8000/live/raji/raji/650.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/650.ts
+#SERVICE 4097:0:1:127:0:0:0:0:0:0:IT: CARTOONITO:http://ip.cs4ip.com:8000/live/raji/raji/651.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/651.ts
+#SERVICE 4097:0:1:128:0:0:0:0:0:0:IT: CARTOON NETWORK:http://ip.cs4ip.com:8000/live/raji/raji/652.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/652.ts
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:IT: Canale 5:http://ip.cs4ip.com:8000/live/raji/raji/653.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/653.ts
+#SERVICE 4097:0:1:130:0:0:0:0:0:0:IT: Boing:http://ip.cs4ip.com:8000/live/raji/raji/654.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/654.ts
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:IT: AXN:http://ip.cs4ip.com:8000/live/raji/raji/655.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/655.ts
+#SERVICE 4097:0:1:132:0:0:0:0:0:0:IT: Prima Fila 3 HD:http://ip.cs4ip.com:8000/live/raji/raji/656.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/656.ts
+#SERVICE 4097:0:1:133:0:0:0:0:0:0:IT: Prima Fila 4 HD:http://ip.cs4ip.com:8000/live/raji/raji/618.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/618.ts
+#SERVICE 4097:0:1:134:0:0:0:0:0:0:IT: Prima Fila 5 HD:http://ip.cs4ip.com:8000/live/raji/raji/619.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/619.ts
+#SERVICE 4097:0:1:135:0:0:0:0:0:0:PRIMAFILA 6 HD:http://ip.cs4ip.com:8000/live/raji/raji/620.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/620.ts
+#SERVICE 4097:0:1:136:0:0:0:0:0:0:PRIMAFILA 7 HD:http://ip.cs4ip.com:8000/live/raji/raji/560.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/560.ts
+#SERVICE 4097:0:1:137:0:0:0:0:0:0:IT: Prima Fila 8 HD:http://ip.cs4ip.com:8000/live/raji/raji/559.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/559.ts
+#SERVICE 4097:0:1:138:0:0:0:0:0:0:IT: Prima Fila 9 HD:http://ip.cs4ip.com:8000/live/raji/raji/621.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/621.ts
+#SERVICE 4097:0:1:139:0:0:0:0:0:0:IT:_Prima_Fila_10:http://ip.cs4ip.com:8000/live/raji/raji/622.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/622.ts
+#SERVICE 4097:0:1:140:0:0:0:0:0:0:IT:_Prima_Fila_12:http://ip.cs4ip.com:8000/live/raji/raji/2631.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/2631.ts
+#SERVICE 4097:0:1:141:0:0:0:0:0:0:♣♣♣♣♣SKY Italia♣♣♣♣♣:http://ip.cs4ip.com:8000/live/raji/raji/2632.ts
+#DESCRIPTIONhttp://ip.cs4ip.com:8000/live/raji/raji/2632.ts
+#SERVICE 4097:0:1:142:0:0:0:0:0:0:IT: Rai 1 HD:http://live.softiptv.com:9900/live/3month/3month/7456.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/7456.ts
+#SERVICE 4097:0:1:143:0:0:0:0:0:0:IT: Rai 2 HD:http://live.softiptv.com:9900/live/3month/3month/19075.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19075.ts
+#SERVICE 4097:0:1:144:0:0:0:0:0:0:IT: Rai 3 HD:http://live.softiptv.com:9900/live/3month/3month/19076.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19076.ts
+#SERVICE 4097:0:1:145:0:0:0:0:0:0:IT: Rai Sport 1:http://live.softiptv.com:9900/live/3month/3month/19077.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19077.ts
+#SERVICE 4097:0:1:146:0:0:0:0:0:0:IT: Rai Sport 2:http://live.softiptv.com:9900/live/3month/3month/19083.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19083.ts
+#SERVICE 4097:0:1:147:0:0:0:0:0:0:IT: Rai Premium:http://live.softiptv.com:9900/live/3month/3month/19084.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19084.ts
+#SERVICE 4097:0:1:148:0:0:0:0:0:0:IT: Rete 4:http://live.softiptv.com:9900/live/3month/3month/19085.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19085.ts
+#SERVICE 4097:0:1:149:0:0:0:0:0:0:IT: Real Time:http://live.softiptv.com:9900/live/3month/3month/19078.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19078.ts
+#SERVICE 4097:0:1:150:0:0:0:0:0:0:IT: Italia 1 HD:http://live.softiptv.com:9900/live/3month/3month/19082.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19082.ts
+#SERVICE 4097:0:1:151:0:0:0:0:0:0:IT: Canale 5 HD:http://live.softiptv.com:9900/live/3month/3month/19080.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19080.ts
+#SERVICE 4097:0:1:152:0:0:0:0:0:0:IT:Videolina:http://live.softiptv.com:9900/live/3month/3month/19079.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/19079.ts
+#SERVICE 4097:0:1:153:0:0:0:0:0:0:IT:Tg Norba:http://live.softiptv.com:9900/live/3month/3month/18746.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18746.ts
+#SERVICE 4097:0:1:154:0:0:0:0:0:0:IT:Tg 24 PP:http://live.softiptv.com:9900/live/3month/3month/18747.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18747.ts
+#SERVICE 4097:0:1:155:0:0:0:0:0:0:IT:Tele Milano:http://live.softiptv.com:9900/live/3month/3month/18748.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18748.ts
+#SERVICE 4097:0:1:156:0:0:0:0:0:0:IT:Tele Arena:http://live.softiptv.com:9900/live/3month/3month/18749.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18749.ts
+#SERVICE 4097:0:1:157:0:0:0:0:0:0:IT:Sky TG24:http://live.softiptv.com:9900/live/3month/3month/18750.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18750.ts
+#SERVICE 4097:0:1:158:0:0:0:0:0:0:IT:Reteconome:http://live.softiptv.com:9900/live/3month/3month/18752.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18752.ts
+#SERVICE 4097:0:1:159:0:0:0:0:0:0:IT:Premium Stories HD:http://live.softiptv.com:9900/live/3month/3month/18753.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18753.ts
+#SERVICE 4097:0:1:160:0:0:0:0:0:0:IT:Premium Disney Junior:http://live.softiptv.com:9900/live/3month/3month/18754.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18754.ts
+#SERVICE 4097:0:1:161:0:0:0:0:0:0:IT:Premium Disney 1:http://live.softiptv.com:9900/live/3month/3month/18758.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18758.ts
+#SERVICE 4097:0:1:162:0:0:0:0:0:0:IT:Premium Discovery World:http://live.softiptv.com:9900/live/3month/3month/18760.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18760.ts
+#SERVICE 4097:0:1:163:0:0:0:0:0:0:IT:Premium Crime  24:http://live.softiptv.com:9900/live/3month/3month/18761.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18761.ts
+#SERVICE 4097:0:1:164:0:0:0:0:0:0:IT:Premium CRIM HD:http://live.softiptv.com:9900/live/3month/3month/18762.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18762.ts
+#SERVICE 4097:0:1:165:0:0:0:0:0:0:IT:Premium CRIM 24:http://live.softiptv.com:9900/live/3month/3month/18763.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18763.ts
+#SERVICE 4097:0:1:166:0:0:0:0:0:0:IT:Premium Cinema Energy:http://live.softiptv.com:9900/live/3month/3month/18764.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18764.ts
+#SERVICE 4097:0:1:167:0:0:0:0:0:0:IT:Premium Cinema Emotion:http://live.softiptv.com:9900/live/3month/3month/18765.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18765.ts
+#SERVICE 4097:0:1:168:0:0:0:0:0:0:IT:Premium Cinema Comedy:http://live.softiptv.com:9900/live/3month/3month/18766.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18766.ts
+#SERVICE 4097:0:1:169:0:0:0:0:0:0:IT:Premium Cinema Action  24:http://live.softiptv.com:9900/live/3month/3month/18767.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18767.ts
+#SERVICE 4097:0:1:170:0:0:0:0:0:0:IT:Premium Cinema 24:http://live.softiptv.com:9900/live/3month/3month/18768.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18768.ts
+#SERVICE 4097:0:1:171:0:0:0:0:0:0:IT:Premium Cinema 1:http://live.softiptv.com:9900/live/3month/3month/18769.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18769.ts
+#SERVICE 4097:0:1:172:0:0:0:0:0:0:IT:Premium Carton Network:http://live.softiptv.com:9900/live/3month/3month/18770.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18770.ts
+#SERVICE 4097:0:1:173:0:0:0:0:0:0:IT:Premium CALCIO HD2:http://live.softiptv.com:9900/live/3month/3month/18771.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18771.ts
+#SERVICE 4097:0:1:174:0:0:0:0:0:0:IT:Premium Calcio HD:http://live.softiptv.com:9900/live/3month/3month/18772.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18772.ts
+#SERVICE 4097:0:1:175:0:0:0:0:0:0:IT:Premium Calcio 1HD:http://live.softiptv.com:9900/live/3month/3month/18773.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18773.ts
+#SERVICE 4097:0:1:176:0:0:0:0:0:0:IT:Premium Action HD:http://live.softiptv.com:9900/live/3month/3month/18774.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18774.ts
+#SERVICE 4097:0:1:177:0:0:0:0:0:0:IT:Nat Geo Wild:http://live.softiptv.com:9900/live/3month/3month/18775.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18775.ts
+#SERVICE 4097:0:1:178:0:0:0:0:0:0:IT:Nat Geo Plus 1:http://live.softiptv.com:9900/live/3month/3month/18776.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18776.ts
+#SERVICE 4097:0:1:179:0:0:0:0:0:0:IT:MediaSet Iris:http://live.softiptv.com:9900/live/3month/3month/18777.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18777.ts
+#SERVICE 4097:0:1:180:0:0:0:0:0:0:IT:La6 TV:http://live.softiptv.com:9900/live/3month/3month/18778.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18778.ts
+#SERVICE 4097:0:1:181:0:0:0:0:0:0:IT:History Channel:http://live.softiptv.com:9900/live/3month/3month/18779.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18779.ts
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:IT:Frisbee:http://live.softiptv.com:9900/live/3month/3month/18780.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18780.ts
+#SERVICE 4097:0:1:183:0:0:0:0:0:0:IT:Fox Life:http://live.softiptv.com:9900/live/3month/3month/18781.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18781.ts
+#SERVICE 4097:0:1:184:0:0:0:0:0:0:IT:Fox Italia:http://live.softiptv.com:9900/live/3month/3month/18783.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18783.ts
+#SERVICE 4097:0:1:185:0:0:0:0:0:0:IT:Fox Crime Plus:http://live.softiptv.com:9900/live/3month/3month/18784.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18784.ts
+#SERVICE 4097:0:1:186:0:0:0:0:0:0:IT:Fox Comedy:http://live.softiptv.com:9900/live/3month/3month/18786.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18786.ts
+#SERVICE 4097:0:1:187:0:0:0:0:0:0:IT:Disney Plus 2:http://live.softiptv.com:9900/live/3month/3month/18787.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18787.ts
+#SERVICE 4097:0:1:188:0:0:0:0:0:0:IT:Disney Channel:http://live.softiptv.com:9900/live/3month/3month/18789.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18789.ts
+#SERVICE 4097:0:1:189:0:0:0:0:0:0:IT:Discovery Channel:http://live.softiptv.com:9900/live/3month/3month/18791.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18791.ts
+#SERVICE 4097:0:1:190:0:0:0:0:0:0:IT:Cinema Passion:http://live.softiptv.com:9900/live/3month/3month/18792.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18792.ts
+#SERVICE 4097:0:1:191:0:0:0:0:0:0:IT:Cinema Max  1:http://live.softiptv.com:9900/live/3month/3month/18793.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18793.ts
+#SERVICE 4097:0:1:192:0:0:0:0:0:0:IT:Cinema Max:http://live.softiptv.com:9900/live/3month/3month/18794.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18794.ts
+#SERVICE 4097:0:1:193:0:0:0:0:0:0:IT:Cinema Hits:http://live.softiptv.com:9900/live/3month/3month/18795.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18795.ts
+#SERVICE 4097:0:1:194:0:0:0:0:0:0:IT:Cinema Family:http://live.softiptv.com:9900/live/3month/3month/18796.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18796.ts
+#SERVICE 4097:0:1:195:0:0:0:0:0:0:IT:Cinema Cult HD:http://live.softiptv.com:9900/live/3month/3month/18797.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18797.ts
+#SERVICE 4097:0:1:196:0:0:0:0:0:0:IT:Cinema Comedy:http://live.softiptv.com:9900/live/3month/3month/18798.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18798.ts
+#SERVICE 4097:0:1:197:0:0:0:0:0:0:IT:Cinema Classic:http://live.softiptv.com:9900/live/3month/3month/18800.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18800.ts
+#SERVICE 4097:0:1:198:0:0:0:0:0:0:IT:Cinema 1:http://live.softiptv.com:9900/live/3month/3month/18801.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18801.ts
+#SERVICE 4097:0:1:199:0:0:0:0:0:0:IT:Cinema  24:http://live.softiptv.com:9900/live/3month/3month/18802.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18802.ts
+#SERVICE 4097:0:1:200:0:0:0:0:0:0:IT:CIELO ITALY:http://live.softiptv.com:9900/live/3month/3month/18803.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18803.ts
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:IT:Cartonetoo:http://live.softiptv.com:9900/live/3month/3month/18804.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18804.ts
+#SERVICE 4097:0:1:202:0:0:0:0:0:0:IT:Calcio1:http://live.softiptv.com:9900/live/3month/3month/18805.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18805.ts
+#SERVICE 4097:0:1:203:0:0:0:0:0:0:IT: Sport MotoGp:http://live.softiptv.com:9900/live/3month/3month/18807.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18807.ts
+#SERVICE 4097:0:1:204:0:0:0:0:0:0:IT: Sport F1:http://live.softiptv.com:9900/live/3month/3month/18811.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18811.ts
+#SERVICE 4097:0:1:205:0:0:0:0:0:0:IT: Sport 3:http://live.softiptv.com:9900/live/3month/3month/18812.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18812.ts
+#SERVICE 4097:0:1:206:0:0:0:0:0:0:IT: Sport 2:http://live.softiptv.com:9900/live/3month/3month/18813.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18813.ts
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:IT: Sport 1:http://live.softiptv.com:9900/live/3month/3month/18815.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18815.ts
+#SERVICE 4097:0:1:208:0:0:0:0:0:0:Sky Sport 1 HD (ITA):http://live.softiptv.com:9900/live/3month/3month/18816.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/18816.ts
+#SERVICE 4097:0:1:209:0:0:0:0:0:0:IT-SKY_DISCOVERY_CHANNEL:http://live.softiptv.com:9900/live/3month/3month/10591.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10591.ts
+#SERVICE 4097:0:1:210:0:0:0:0:0:0:IT-SKY_CINEMA_MAX:http://live.softiptv.com:9900/live/3month/3month/10600.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10600.ts
+#SERVICE 4097:0:1:211:0:0:0:0:0:0:IT-RAI2:http://live.softiptv.com:9900/live/3month/3month/10601.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10601.ts
+#SERVICE 4097:0:1:212:0:0:0:0:0:0:IT-Premium-Stories:http://live.softiptv.com:9900/live/3month/3month/10611.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10611.ts
+#SERVICE 4097:0:1:213:0:0:0:0:0:0:IT-Premium-Cinema-Energy:http://live.softiptv.com:9900/live/3month/3month/10617.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10617.ts
+#SERVICE 4097:0:1:214:0:0:0:0:0:0:IT-Premium-Cinema-Emotion:http://live.softiptv.com:9900/live/3month/3month/10623.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10623.ts
+#SERVICE 4097:0:1:215:0:0:0:0:0:0:IT-Premium-Cinema-2HD:http://live.softiptv.com:9900/live/3month/3month/10624.ts
+#DESCRIPTIONhttp://live.softiptv.com:9900/live/3month/3month/10624.ts
+#SERVICE 4097:0:1:216:0:0:0:0:0:0:IT-Premium-action 24:http://live.softiptv.com:9900/live/3month/3month/10626.ts
+#DESCRIPTION http://live.softiptv.com:9900/live/3month/3month/10626.ts
